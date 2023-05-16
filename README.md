@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bump64</h1>
+<h1 align="left">Wassup, I'm Bump64</h1>
 <h3 align="left">A Python lover and website developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bump64&label=Profile%20views&color=0e75b6&style=flat" alt="bump64" /> </p>

@@ -11,3 +11,6 @@ It is my passion to also stay fit, especially athletics!
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bump64&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pngyfpy4hkgslqld3shur3ph6i)

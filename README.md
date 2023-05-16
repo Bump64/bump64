@@ -8,3 +8,6 @@ It is my passion to also stay fit, especially athletics!
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bump64&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](https://komarev.com/ghpvc/?username=Bump64)

@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Bump64) 
+
+
 ### Hello, welcome to My profile! 👋
 
 I love coding, especially in Python, HTML and CSS.
@@ -8,6 +11,3 @@ It is my passion to also stay fit, especially athletics!
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bump64&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![](https://komarev.com/ghpvc/?username=Bump64)

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Node.js and Java.**
 
-- ⚡ Fun fact about You! **You stole My soul.**
+- ⚡ Fun fact about Me! **You stole My soul.**
 
 <p align="left">
 </p>
